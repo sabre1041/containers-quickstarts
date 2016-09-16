@@ -97,7 +97,7 @@
 						}
 					},
 					"spec": {
-						"dockerImageRepository": "registry.access.redhat.com/rhel7/rhel"
+						"dockerImageRepository": "rhel7/rhel"
 					}
 				},
 				{
